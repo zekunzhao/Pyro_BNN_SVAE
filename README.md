@@ -1,4 +1,14 @@
 # Pyro_BNN_SVAE
-Probabilistic Programming in the Context of Neural Networks
+Project title: A Survey of Probabilistic Programming in the Context of Neural Networks
 
-Pyro is a probabilistic programming language built on Python as a platform for developing advanced probabilistic models in deep learning framework.To scale to large data sets and high-dimensional models, Pyro uses stochastic variational inference algorithms and probability distributions built on top of PyTorch.To accommodate complex or model-specific algorithmic behavior, Pyro leverages Poutine, a library of composable building blocks for modifying the behavior of probabilistic programs. 
+**Original codes from**:
+* [BNN model](https://github.com/pyro-ppl/pyro/tree/d128c1ac51bba400918844b20cef807df1cd345e)
+* [SVAE model](https://github.com/paraschopra/bayesian-neural-network-mnist/tree/249624681abce81d9a4ce52a9b293e02f7abafd5)
+
+
+## Requirements
+```
+PyTorch
+Pyro
+numpy
+```
