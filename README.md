@@ -6,9 +6,10 @@ Project title: A Survey of Probabilistic Programming in the Context of Neural Ne
 * [BNN model](https://github.com/paraschopra/bayesian-neural-network-mnist/tree/249624681abce81d9a4ce52a9b293e02f7abafd5)
 
 
-## Requirements
+## We have test on
 ```
-PyTorch
-Pyro
-numpy
+Python == 3.7.3
+PyTorch == 1.1.0
+Pyro == 0.3.3
+numpy == 1.16.4
 ```
